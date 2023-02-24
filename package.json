@@ -29,6 +29,7 @@
     },
     "devDependencies": {
         "cross-env": "^7.0.3",
+        "prettier": "^2.8.4",
         "react-hot-loader": "^4.13.0",
         "react-scripts": "^5.0.1"
     },
@@ -49,5 +50,11 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "prettier": {
+        "trailingComma": "all",
+        "tabWidth": 2,
+        "jsxSingleQuote": true,
+        "singleQuote": true
     }
 }
