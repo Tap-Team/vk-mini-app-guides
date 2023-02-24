@@ -1,4 +1,4 @@
-Проект созданный в рамках урока "[Создание мини приложений ВКонтакте. Часть 1 - Создание проекта.](https://vk.com/@tap_team_studio-sozdanie-mini-prilozhenii-vkontakte-chast-1)".
+Проект созданный в рамках урока "[Создание мини приложений ВКонтакте. Часть 2.1 - Верстка [Онбординг].](https://vk.com/@tap_team_studio-sozdanie-mini-prilozhenii-vkontakte-chast-2-1)".
 
 ---
 
