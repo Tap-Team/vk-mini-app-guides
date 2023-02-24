@@ -15,7 +15,7 @@ const Onboarding = ({ id, go }) => {
   const onClickHandler = async (e) => {
     await bridge.send('VKWebAppStorageSet', {
       key: 'onboarding',
-      value: true,
+      value: 'true',
     });
     go(e);
   };
