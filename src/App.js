@@ -37,7 +37,6 @@ const App = () => {
     };
     fetchData();
     showOnboarding();
-    setActivePanel('onboarding');
   }, []);
 
   const go = (e) => {

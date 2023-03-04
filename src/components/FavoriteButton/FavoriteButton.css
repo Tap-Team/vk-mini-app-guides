@@ -1,0 +1,6 @@
+.TapFavoriteButton {
+    position: fixed;
+    bottom: 0;
+    padding: 12px;
+    width: calc(100% - 24px);
+}
